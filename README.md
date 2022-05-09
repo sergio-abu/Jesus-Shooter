@@ -1,2 +1,2 @@
 # space-shooters-style-game
-space shooters styled game using pygame
+Space Shooters custom game using pygame.
