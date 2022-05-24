@@ -1,2 +1,2 @@
-# space-shooters-style-game
+# Jesus-Shooter
 Space Shooters custom game using pygame.
